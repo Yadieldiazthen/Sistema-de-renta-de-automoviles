@@ -7,4 +7,4 @@ def new_car():
        "Car state": "Available" }
 
     cars.append(car)
-    print("Car added")
+    print("Car addedd")
